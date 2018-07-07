@@ -1,12 +1,12 @@
 #include<stdio.h>
 void main()
 {
-int result=1,base,exp;
-scanf("%d%d",&base,&exp);
-while(exp!=0)
+int result=1,base,e;
+scanf("%d%d",&base,&e);
+while(e!=0)
 {
 	result=result*base;
-	exp--;
+	e--;
 }
 printf("\n %d",result);
 }
