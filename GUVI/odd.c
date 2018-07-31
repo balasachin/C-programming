@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void) {
+int main() {
 	// your code goes here
 	int a,b,i;
 	scanf("%d%d",&a,&b);
