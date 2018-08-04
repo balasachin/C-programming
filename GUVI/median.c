@@ -2,6 +2,7 @@
 #include<conio.h>
 void main() 
 {
+ clrscr();
 int x[100],n,i;
 int median(int,int[]);
 scanf("%d",&n);
