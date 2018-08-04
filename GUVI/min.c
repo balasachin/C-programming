@@ -1,6 +1,7 @@
-#include<stdio.h>
+#include <stdio.h>
 void main()
 {
+    
     int a[50]={1,2,3,4,5,6,7,8};
     int i,n; 
     int min= a[0];
@@ -16,5 +17,5 @@ void main()
        
        
     }
-  printf("\n%d",min);  
+  printf("\n%d",min); 
 }
